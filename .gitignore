@@ -180,3 +180,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+# others
+books/
+models/
